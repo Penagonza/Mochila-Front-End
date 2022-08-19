@@ -1,0 +1,189 @@
+
+.fondo{
+
+    position: absolute;
+    width: 100%;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    
+    background: #E6E6E6;
+    }   
+
+.imagen{
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 50%;
+    top: 20.91px;
+}
+
+h1 {
+position: absolute;
+width: 100%;
+height: 50px;
+left: 0px;
+top: 165px;
+background: #C4C4C4;
+
+font-family: 'times new roman';
+font-style: normal;
+font-weight: 700;
+text-align: center;
+letter-spacing: 15px;
+font-size: 35px;
+line-height: 145%;
+color: #005677;
+}
+
+#primero {
+    position: absolute;
+    width: 99.4%;
+    height: 22px;
+    left: 0px;
+    top: 340px;
+    padding: 0.3%;
+    background: #C4C4C4;
+    
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 5px;
+    font-size: 20px;
+    line-height: 120%;
+    color: #005677;  
+}
+
+#listauno{
+
+position: absolute;
+width: 500px;
+height: 13px;
+left: 0px;
+top: 385px;
+
+font-family: 'Times New Roman';
+font-style: italic;
+font-weight: 400;
+font-size: 15px;
+line-height: 140%;
+
+color: #000000;
+}
+
+.bold {font-weight: bold;}
+.normal {font-style: normal;}
+
+#segundo {
+    position: absolute;
+    width: 99.4%;
+    height: 22px;
+    left: 0px;
+    top: 470px;
+    padding: 0.3%;
+    background: #C4C4C4;
+    
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 5px;
+    font-size: 20px;
+    line-height: 120%;
+    color: #005677; 
+}
+
+#primerdiv{
+    position: absolute;
+    width: 100%;
+    height: 13px;
+    left: 15px;
+    top: 520px;
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 80%;
+    
+    color: #000000;  
+}
+
+#tercero {
+    position: absolute;
+    width: 99.4%;
+    height: 22px;
+    left: 0px;
+    top: 600px;
+    padding: 0.3%;
+    background: #C4C4C4;
+    
+    font-family: 'times new roman';
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 5px;
+    font-size: 20px;
+    line-height: 13
+    0%;
+    color: #005677; 
+}
+#segundodiv{
+    position: absolute;
+    width: 100%;
+    height: 13px;
+    left: 15px;
+    top: 650px;
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 12.7x;
+    
+    color: #000000;  
+}
+
+#footer{
+
+position: absolute;
+width: 100%;
+height: 37px;
+top: 120%;
+background: #005677;
+}
+
+#parrafofooter {
+    position: absolute;
+    width: 100%;
+    height: 17px;
+    text-align: center;
+    top: -25%;
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    
+    color: #FFFFFF;
+}
+
+
+#IG {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 55%;
+    top: 3px;
+    background-image: url(../img/IG.jpg);
+    background-size: cover;
+}
+
+#LIN {
+position: absolute;
+width: 30px;
+height: 30px;
+left: 58%;
+top: 3px;
+background-image: url(../img/ico_linkedin.png);
+background-size: cover;
+}
