@@ -113,7 +113,7 @@ color: #000000;
     width: 99.4%;
     height: 22px;
     left: 0px;
-    top: 580px;
+    top: 600px;
     padding: 0.3%;
     background: #C4C4C4;
     
@@ -122,7 +122,8 @@ color: #000000;
     font-weight: 700;
     letter-spacing: 5px;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 13
+    0%;
     color: #005677; 
 }
 #segundodiv{
@@ -130,7 +131,7 @@ color: #000000;
     width: 100%;
     height: 13px;
     left: 15px;
-    top: 630px;
+    top: 650px;
     
     font-family: 'Times New Roman';
     font-style: normal;
@@ -141,43 +142,46 @@ color: #000000;
     color: #000000;  
 }
 
-#footer{
 
-position: absolute;
-width: 100%;
-height: 37px;
-background: #005677;
-}
 
-#parrafofooter {
+footer{
+
     position: absolute;
     width: 100%;
-    height: 17px;
-    text-align: center;
-    top: -25%;
+    height: 37px;
+    bottom: 0px;
+    background: #005677;
+    }
     
-    font-family: 'Times New Roman';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 84.69%;
+    #parrafofooter {
+        position: absolute;
+        width: 100%;
+        height: 17px;
+        text-align: center;
+        top: -25%;
+        
+        font-family: 'Times New Roman';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 84.69%;
+        
+        color: #FFFFFF;
+    }
     
-    color: #FFFFFF;
-}
-
-
-#IG {
+    
+    #IG {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        left: 55%;
+        top: 3px; 
+    }
+    
+    #LIN {
     position: absolute;
     width: 30px;
     height: 30px;
-    left: 55%;
-    top: 3px; 
-}
-
-#LIN {
-position: absolute;
-width: 30px;
-height: 30px;
-left: 58%;
-top: 3px;
-}
+    left: 58%;
+    top: 3px;
+    }
